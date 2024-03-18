@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julien.soudet47@gmail.com
+	name = julien soudet
